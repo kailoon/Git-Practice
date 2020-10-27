@@ -7,7 +7,7 @@ Here is some dummy text to get you started.
 - [ ] Fixing the checkbox.
 
 ### Image
-![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![Image](https://www.freecodecamp.org/news/content/images/size/w1000/2020/01/Untitled-design.png "Image")
 
 ### Table
 | Command | Description |
