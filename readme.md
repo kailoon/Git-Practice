@@ -3,4 +3,5 @@
 Here is some dummy text to get you started.
 
 ### Task
-[x] How about some task?
+- [  ] How about some task?
+- [  ] Fixing the checkbox.
