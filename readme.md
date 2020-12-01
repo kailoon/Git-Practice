@@ -3,6 +3,7 @@
 Here is some dummy text to get you started.
 
 ### Task
+- [*] It works! ( yq )
 - [ ] How about some task?
 - [ ] Fixing the checkbox.
 
